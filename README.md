@@ -22,8 +22,7 @@ PlayerTracker is a sophisticated computer vision system designed for tracking mu
 - [Use Cases](#-use-cases)
 - [API Reference](#-api-reference)
 - [Troubleshooting](#-troubleshooting)
-- [Contributing](#-contributing)
-- [License](#-license)
+
 
 ## ✨ Features
 
@@ -505,10 +504,6 @@ results_cam1 = tracker.track_players("camera1.mp4")
 results_cam2 = tracker.track_players("camera2.mp4")
 ```
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
-
 ### Development Setup
 ```bash
 # Clone repository
@@ -537,30 +532,4 @@ black src/
 - Documentation improvements
 - Bug fixes and testing
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- [Ultralytics](https://ultralytics.com/) for the excellent YOLOv8 implementation
-- [PyTorch](https://pytorch.org/) team for the deep learning framework
-- [OpenCV](https://opencv.org/) community for computer vision tools
-- Contributors and users of this project
-
-## 📞 Support
-
-- **Documentation**: [Wiki](https://github.com/yourusername/playertracker/wiki)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/playertracker/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/playertracker/discussions)
-- **Email**: support@playertracker.dev
-
----
-
-<div align="center">
-
-**⭐ If you found this project helpful, please give it a star! ⭐**
-
-Made with ❤️ by the PlayerTracker team
-
-</div>
+  THANK YOU <3
